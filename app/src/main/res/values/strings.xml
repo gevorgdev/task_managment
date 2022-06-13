@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TaskManagment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Project -->
+    <string name="create_project_title">Create Project</string>
+    <string name="create_project_name_hint">Project Name</string>
+    <string name="create_project_desc_hint">Project Description</string>
+    <string name="create_project_btn_text">Create</string>
+    <string name="create_list_title">Projects</string>
+    <string name="create_list_date_label">Created At</string>
+    <string name="create_detail_date_label">Created At: %1$s</string>
+
+    <!-- Task -->
+    <string name="create_task_btn">Create Task</string>
+    <string name="create_task_title">Create Task</string>
+    <string name="create_task_name_hint">Task Name</string>
+    <string name="create_task_desc_hint">Task Description</string>
+    <string name="edit_task_title">Edit Task</string>
+    <string name="edit_task_btn">Edit</string>
+    <string name="edit_task_label">Tasks</string>
+    <string name="submit_task_btn">Submit Task</string>
+    <string name="task_status_txt">Status: %1$s</string>
+    <string name="save_task_btn">Save Task</string>
+    <string name="comment_user_name_hint">Username</string>
+    <string name="comment_label_text">Comments</string>
+    <string name="comment_body_hint">Comment</string>
+    <string name="comment_post_btn">Post</string>
+
+    <!-- Errors -->
+    <string name="default_error">Something went wrong!</string>
+    <string name="project_create_error">Can`t create project</string>
+    <string name="task_create_error">Can`t create task</string>
+    <string name="task_update_error">Can`t update task</string>
+    <string name="task_update_status_error">Can`t chang task status</string>
+    <string name="task_create_comment_error">Can`t add comment please check you input</string>
+</resources>
